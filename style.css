@@ -1,9 +1,6 @@
 body,html{
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+     margin: 0;
+   font-family: 'Apple Chancery', cursive;
 }
 .main{
    margin: 20%;
@@ -14,7 +11,7 @@ body,html{
    padding: 25px;
    text-align: center;
    float:initial;
-   margin: 100px 460px 80px 460px
+   margin: 100px auto;
    
    
    
